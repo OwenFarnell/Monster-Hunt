@@ -29,5 +29,3 @@ If you'd like to contribute to this project, please follow these steps:
 4. Test your changes to ensure they work as expected.
 5. Commit your changes and push them to your forked repository.
 6. Submit a pull request to the main repository, explaining the changes you made.
-
-Please note that this project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Kindly adhere to it in all your interactions.
