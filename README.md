@@ -31,12 +31,3 @@ If you'd like to contribute to this project, please follow these steps:
 6. Submit a pull request to the main repository, explaining the changes you made.
 
 Please note that this project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Kindly adhere to it in all your interactions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to OpenAI for providing the base AI model used for the game logic.
-
