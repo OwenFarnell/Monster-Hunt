@@ -15,8 +15,8 @@ Welcome to the Adventure Game! This is a simple text-based adventure game where 
 - Fight monsters: Battle various monsters and defeat them to level up.
 - Level up: Gain experience points and increase your stats as you progress.
 - Inventory: Manage your inventory and purchase items from the shop.
-- Shop: Visit the shop to buy helpful items for your adventure.
-- House Decoration: Collect items from defeating monsters and decorate your in-game house.
+- Shop: Visit the shop to buy helpful items for your adventure with the gold gained from killing monsters.
+- House Decoration: Collect items from defeating monsters and decorate your in-game 2D house.
 - Contribution: Contributions to the project are welcome! Feel free to submit bug reports, feature requests, or even code improvements.
 
 ## How to Contribute
